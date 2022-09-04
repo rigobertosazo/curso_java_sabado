@@ -17,6 +17,7 @@ public class numeroDobleTriple
         System.out.println("El numero ingresado es: "+numero);
         System.out.println("El doble del numero ingresado es: "+numero*numero);
         System.out.println("El triple del numero ingresado es: "+numero*numero*numero);
+
         
     }
 }
